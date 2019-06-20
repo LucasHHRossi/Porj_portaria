@@ -1,0 +1,124 @@
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Cadastro.dll.config
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Cadastro.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Cadastro.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\csc.exe
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\csc.exe.config
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\csc.rsp
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\csi.exe
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\csi.exe.config
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\csi.rsp
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.AppContext.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Console.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\vbc.exe
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\vbc.exe.config
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\vbc.rsp
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Model.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Proj_portaria.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Utils.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Model.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Proj_portaria.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\bin\Utils.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\obj\Debug\Cadastro.csproj.CopyComplete
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\obj\Debug\Cadastro.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Cadastro.dll.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Cadastro.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Cadastro.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\csc.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\csc.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\csc.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\csi.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\csi.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\csi.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.AppContext.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Console.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.IO.Compression.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.Claims.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.ValueTuple.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\vbc.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\vbc.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\vbc.rsp
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\VBCSCompiler.exe
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Proj_portaria.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Utils.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Proj_portaria.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\bin\Utils.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\obj\Debug\Cadastro.csproj.CopyComplete
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\obj\Debug\Cadastro.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Cadastro\obj\Debug\Cadastro.pdb

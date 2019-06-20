@@ -1,0 +1,37 @@
+﻿body {
+	background-image: url("../img/background.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #464646;
+	opacity: 0.9;
+}
+
+.jumbotron {
+	margin-top: 100px;
+	margin-bottom: -70px;
+	padding: 27px;
+}
+
+#btnSlavar{
+	float: right;
+}
+
+#sizeImgLogo {
+	width: 140px;
+	height: 40px;
+}
+
+#btnVoltar {
+	margin-top: 30px;
+	margin-bottom: -70px;
+	border: 20px solid;
+}
+
+#btnAvancar {
+	margin-top: 30px;
+	margin-bottom: -70px;
+	border: 20px solid;
+	float: right;
+}

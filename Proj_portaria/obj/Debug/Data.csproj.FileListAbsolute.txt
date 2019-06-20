@@ -1,0 +1,22 @@
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\bin\Debug\Proj_portaria.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\bin\Debug\Proj_portaria.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\bin\Debug\Model.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\bin\Debug\Utils.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\bin\Debug\Model.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\bin\Debug\Utils.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\obj\Debug\Proj_portaria.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Proj_portaria\obj\Debug\Proj_portaria.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\bin\Debug\Proj_portaria.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\bin\Debug\Proj_portaria.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\bin\Debug\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\bin\Debug\Utils.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\bin\Debug\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\bin\Debug\Utils.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\obj\Debug\Data.csproj.CopyComplete
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\obj\Debug\Proj_portaria.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Proj_portaria\obj\Debug\Proj_portaria.pdb

@@ -1,0 +1,12 @@
+C:\Users\Anyone\source\repos\Proj_portaria\Model\bin\Debug\Model.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Model\bin\Debug\Model.pdb
+C:\Users\Anyone\source\repos\Proj_portaria\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Anyone\source\repos\Proj_portaria\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Anyone\source\repos\Proj_portaria\Model\obj\Debug\Model.dll
+C:\Users\Anyone\source\repos\Proj_portaria\Model\obj\Debug\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Model\bin\Debug\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Model\bin\Debug\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Model\obj\Debug\Model.dll
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Model\obj\Debug\Model.pdb
+C:\Users\andrt\OneDrive\Área de Trabalho\Proj_portaria\Model\obj\Debug\Model.csprojAssemblyReference.cache
